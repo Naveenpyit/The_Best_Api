@@ -1,0 +1,68 @@
+[
+   {
+      "buscode": 1,
+      "busname": "THE SCM SILKS",
+      "adduser": 1849188,
+      "adddate": "2024-08-27",
+      "edtuser": null,
+      "edtdate": null,
+      "deleted": "N",
+      "deluser": null,
+      "deldate": null
+   },
+   {
+      "buscode": 2,
+      "busname": "TJ",
+      "adduser": 7661288,
+      "adddate": "2025-01-27",
+      "edtuser": null,
+      "edtdate": null,
+      "deleted": "N",
+      "deluser": null,
+      "deldate": null
+   },
+   {
+      "buscode": 3,
+      "busname": "THE SKTM",
+      "adduser": 7661288,
+      "adddate": "2024-02-20",
+      "edtuser": null,
+      "edtdate": null,
+      "deleted": "N",
+      "deluser": null,
+      "deldate": null
+   },
+   {
+      "buscode": 4,
+      "busname": "THANGAM JEWELS",
+      "adduser": 7661288,
+      "adddate": "2025-01-26",
+      "edtuser": null,
+      "edtdate": null,
+      "deleted": "N",
+      "deluser": null,
+      "deldate": null
+   },
+   {
+      "buscode": 5,
+      "busname": "JEWELS",
+      "adduser": 7661288,
+      "adddate": "2025-01-27",
+      "edtuser": null,
+      "edtdate": null,
+      "deleted": "N",
+      "deluser": null,
+      "deldate": null
+   },
+   {
+      "buscode": 6,
+      "busname": "CHECK",
+      "adduser": 7661288,
+      "adddate": "2025-01-27",
+      "edtuser": null,
+      "edtdate": null,
+      "deleted": "N",
+      "deluser": null,
+      "deldate": null
+   }
+]
