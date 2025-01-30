@@ -64,5 +64,16 @@
       "deleted": "N",
       "deluser": null,
       "deldate": null
+   },
+   {
+      "buscode": 6,
+      "busname": "CHECK",
+      "adduser": 7661288,
+      "adddate": "2025-01-27",
+      "edtuser": null,
+      "edtdate": null,
+      "deleted": "N",
+      "deluser": null,
+      "deldate": null
    }
 ]
